@@ -7,7 +7,7 @@
 
 using namespace std;
 
-//class Calculator {
+class Calculator {
 
 public:
     double evaluate(const string& expression) {
